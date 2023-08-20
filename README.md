@@ -1,4 +1,4 @@
-# Numerical-Methods-Julia
+# NTU-ECON5187-Numerical-Methods-Julia
 
 This is the course **Introduction to Numerical Methods in Economics and Econometrics** taught by Professor WANG, Hung-Jen.
 
